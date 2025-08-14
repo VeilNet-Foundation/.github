@@ -1,6 +1,6 @@
 <h1 align="center">
   <br/>
-  <img src="https://github.com/VeilNet-Foundation/.github/tree/main/images/logo.png" alt="VeilNet Logo" width="80">
+  <img src="https://github.com/VeilNet-Foundation/.github/blob/main/images/logo.png" alt="VeilNet Logo" width="80">
   <br/>
   VeilNet
 </h1>

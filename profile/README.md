@@ -25,7 +25,8 @@
   <img src="https://img.shields.io/badge/Project%20Status-Alpha-orange?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=go" />
   <img src="https://img.shields.io/badge/Type-Privacy%20&%20Security-black?style=for-the-badge&logo=tor-project" />
-  <img src="https://img.shields.io/github/license/VeilNet-Foundation/core?style=for-the-badge" />
+  <img src="https://img.shields.io/github/commit-activity/m/VeilNet-Foundation?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/VeilNet-Foundation?style=for-the-badge" />
 </p>
 
 ---

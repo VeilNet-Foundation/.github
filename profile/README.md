@@ -78,6 +78,21 @@
 - 🎨 Дизайн — нужен логотип, сайт, визуализации
 
 > Начни с [`good first issue`](https://github.com/VeilNet-Foundation/core/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)!
+---
+# Поддержите VeilNet
+
+Мы принимаем пожертвования в:
+
+- 💸 **Monero (XMR) в сети Solana**:  
+  `Hx5zv4NZq6pHWEqzn5DJLdu23XHdEa7Q7WZtd4HxP378` (приватные транзакции)
+
+- ₿ **Bitcoin (BTC)**:  
+  `bc1qf0vn7syrx02vjchyy4cgyg4h00uds6sdlt4gul`
+
+- 💶 **Ethereum (ETH)**:  
+  `0x78b9eAfF62E54de0B4202a4157043a26AB6B9a00`
+
+Спасибо за поддержку свободы.
 
 ---
 
